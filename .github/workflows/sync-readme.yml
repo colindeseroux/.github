@@ -1,0 +1,41 @@
+name: Sync README from Colin-de-Seroux/Colin-de-Seroux
+
+on:
+  schedule:
+    #        ┌───────────── minute (0 - 59)
+    #        │ ┌───────────── hour (0 - 23)
+    #        │ │ ┌───────────── day of the month (1 - 31)
+    #        │ │ │ ┌───────────── month (1 - 12 or JAN-DEC)
+    #        │ │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
+    #        │ │ │ │ │
+    #        │ │ │ │ │
+    #        * * * * *
+    - cron: "30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+
+      - name: Download README from source repo
+        run: |
+          curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            https://api.github.com/repos/Colin-de-Seroux/Colin-de-Seroux/contents/README.md \
+            -o profile/README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/README.md
+          git diff --cached --quiet && echo "No changes to commit." && exit 0
+          git commit -m ":memo: Sync README.md from Colin-de-Seroux/Colin-de-Seroux [skip ci]"
+          git push
