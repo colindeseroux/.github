@@ -1,4 +1,4 @@
-name: Sync README from Colin-de-Seroux/Colin-de-Seroux
+name: Sync README from Phenix333/Phenix333
 
 on:
   schedule:
@@ -28,7 +28,7 @@ jobs:
         run: |
           curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
             -H "Accept: application/vnd.github.v3.raw" \
-            https://api.github.com/repos/Colin-de-Seroux/Colin-de-Seroux/contents/README.md \
+            https://api.github.com/repos/Phenix333/Phenix333/contents/README.md \
             -o profile/README.md
 
       - name: Commit and push changes
@@ -37,5 +37,5 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/README.md
           git diff --cached --quiet && echo "No changes to commit." && exit 0
-          git commit -m ":memo: Sync README.md from Colin-de-Seroux/Colin-de-Seroux [skip ci]"
+          git commit -m ":memo: Sync README.md from Phenix333/Phenix333 [skip ci]"
           git push
