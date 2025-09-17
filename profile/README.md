@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-## <img alt="Dev gif" src="https://github.com/Colin-de-Seroux/Colin-de-Seroux/blob/main/assets/dev.gif?raw=true" width="35"/> About me
+## <img alt="Dev gif" src="https://github.com/Phenix333/Phenix333/blob/main/assets/dev.gif?raw=true" width="35"/> About me
 
 - 🎓 **Training :** Computer science student specializing in AI (M2 Nice Côte d'Azur with Polytech Sophia).
 - 🧑‍💻 **Work experiences :** 3 years of work-study in artificial intelligence and software development, working on both team-based and individual projects. Contributions included: an after-sales service platform with customer access, a chatbot using Retrieval-Augmented Generation (RAG) on company-specific data integrated with external tools, and a computer vision system for automated dish recognition at checkout.
@@ -29,13 +29,13 @@
       <div align="center">
             <div>
                   <div>
-                        <img alt="Phenix333's Github Stats" height="230px" src="https://github-stats.colindeseroux.fr/?username=Colin-de-Seroux&amp;locale=en&amp;theme=tokyonight&amp;rank_icon=github&amp;border_color=2e4058"/>
+                        <img alt="Phenix333's Github Stats" height="230px" src="https://github-stats.colindeseroux.fr/?username=Phenix333&amp;locale=en&amp;theme=tokyonight&amp;rank_icon=github&amp;border_color=2e4058"/>
                   </div>
                   <div>
-                        <img alt="Phenix333's Github Stats 2" height="210px" src="https://github-readme-streak-stats-colin-de-serouxs-projects.vercel.app/?user=Colin-de-Seroux&amp;theme=tokyonight-duo&amp;border=2E4058&amp;background=1A1B27"/>
+                        <img alt="Phenix333's Github Stats 2" height="210px" src="https://github-readme-streak-stats-colin-de-serouxs-projects.vercel.app/?user=Phenix333&amp;theme=tokyonight-duo&amp;border=2E4058&amp;background=1A1B27"/>
                   </div>
                   <div>
-                        <img alt="Phenix333's Language Stats" height="600px" src="https://github-stats.colindeseroux.fr/top-langs?username=Colin-de-Seroux&amp;langs_count=100&amp;exclude_repo=S5-AR&amp;hide=makefile,blade,purebasic,cmake,perl,llvm,rust,hack,ruby,objective-c,batchfile,jupyter%20notebook&amp;layout=donut&amp;local=en&amp;theme=tokyonight&amp;border_color=2e4058"/>
+                        <img alt="Phenix333's Language Stats" height="600px" src="https://github-stats.colindeseroux.fr/top-langs?username=Phenix333&amp;langs_count=100&amp;exclude_repo=S5-AR&amp;hide=makefile,blade,purebasic,cmake,perl,llvm,rust,hack,ruby,objective-c,batchfile,jupyter%20notebook&amp;layout=donut&amp;local=en&amp;theme=tokyonight&amp;border_color=2e4058"/>
                         <p>
                               I have exclude in filter my Jupyter Notebooks (too many lines, so too many percentage).
                         </p>
@@ -46,11 +46,11 @@
       ---
       <br/>
       <div id="repos">
-            <a href="https://github.com/Colin-de-Seroux/Colin-de-Seroux">
-                  <img alt="Colin-de-Seroux" src="https://github-stats.colindeseroux.fr/pin/?username=Colin-de-Seroux&amp;repo=Colin-de-Seroux&amp;theme=tokyonight&amp;border_color=2e4058"/>
+            <a href="https://github.com/Phenix333/Phenix333">
+                  <img alt="Phenix333" src="https://github-stats.colindeseroux.fr/pin/?username=Phenix333&amp;repo=Phenix333&amp;theme=tokyonight&amp;border_color=2e4058"/>
             </a>
-            <a href="https://github.com/Colin-de-Seroux/Projet_developpement_logiciel_application_IA_embarquee">
-                  <img alt="Projet_developpement_logiciel_application_IA_embarquee" src="https://github-stats.colindeseroux.fr/pin/?username=Colin-de-Seroux&amp;repo=Projet_developpement_logiciel_application_IA_embarquee&amp;theme=tokyonight&amp;border_color=2e4058"/>
+            <a href="https://github.com/Phenix333/Projet_developpement_logiciel_application_IA_embarquee">
+                  <img alt="Projet_developpement_logiciel_application_IA_embarquee" src="https://github-stats.colindeseroux.fr/pin/?username=Phenix333&amp;repo=Projet_developpement_logiciel_application_IA_embarquee&amp;theme=tokyonight&amp;border_color=2e4058"/>
             </a>
             <a href="https://github.com/H4znow/marioBrossGame">
                   <img alt="marioBrossGame" src="https://github-stats.colindeseroux.fr/pin/?username=H4znow&amp;repo=marioBrossGame&amp;theme=tokyonight&amp;border_color=2e4058"/>
@@ -82,8 +82,8 @@
             <a href="https://github.com/varix33/AI-Game-Programming">
                   <img alt="AI-Game-Programming" src="https://github-stats.colindeseroux.fr/pin/?username=varix33&amp;repo=AI-Game-Programming&amp;theme=tokyonight&amp;border_color=2e4058"/>
             </a>
-            <a href="https://github.com/Colin-de-Seroux/temporal-model-hybridization">
-                  <img alt="temporal-model-hybridization" src="https://github-stats.colindeseroux.fr/pin/?username=Colin-de-Seroux&amp;repo=temporal-model-hybridization&amp;theme=tokyonight&amp;border_color=2e4058"/>
+            <a href="https://github.com/Phenix333/temporal-model-hybridization">
+                  <img alt="temporal-model-hybridization" src="https://github-stats.colindeseroux.fr/pin/?username=Phenix333&amp;repo=temporal-model-hybridization&amp;theme=tokyonight&amp;border_color=2e4058"/>
             </a>
       </div>
 </div>
@@ -93,10 +93,10 @@
 
 ## 🌐 Contact
 
-- **GitHub :** [My github profile (my courses, courses projects and test projects)](https://github.com/Colin-de-Seroux)
+- **GitHub :** [My github profile (my courses, courses projects and test projects)](https://github.com/Phenix333)
 - **GitHub org :** [My github organization (community and freelance depots)](https://github.com/colindeseroux)
 - **Email :** [contact@colindeseroux.fr](mailto:contact@colindeseroux.fr)
-- **LinkedIn :** [My LinkedIn profile](https://www.linkedin.com/in/colin-de-seroux-5466b61b6)
+- **LinkedIn :** [My LinkedIn profile](https://www.linkedin.com/in/colin-de-seroux)
 - **Website :** [colindeseroux.fr](https://colindeseroux.fr) (default was my portfolio)
 
 <br/>
